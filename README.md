@@ -40,5 +40,11 @@ This repo contains easy and beginner friendly  games in python.
     <td>8</td>
     <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/Day%208-Caesar%20Cipher">Caeser Cipher</a></td>
     <td>Function,argumnets& Parameters</td>
-  </tr> 
+  </tr>
+  <tr>
+    <td>9</td>
+    <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/Day%209-The%20Secret%20Auction">The Secret Auction</a></td>
+    <td>Fuctions,Dictionary,loops,if-else</td>
+  </tr>
 </table>
+
