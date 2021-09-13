@@ -46,5 +46,10 @@ This repo contains easy and beginner friendly  games in python.
     <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/Day%209-The%20Secret%20Auction">The Secret Auction</a></td>
     <td>Fuctions,Dictionary,loops,if-else</td>
   </tr>
+  <tr>
+    <td>10</td>
+    <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/DAY%2010-%20Calculator">Calculator</a></td>
+    <td>Fuctions,Dictionary,loops</td>
+  </tr>
 </table>
 
