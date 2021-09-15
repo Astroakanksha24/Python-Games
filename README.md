@@ -51,5 +51,10 @@ This repo contains easy and beginner friendly  games in python.
     <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/DAY%2010-%20Calculator">Calculator</a></td>
     <td>Fuctions,Dictionary,loops</td>
   </tr>
+  <tr>
+    <td>11</td>
+    <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/DAY%2011-Blackjack">Blackjack</a><td>
+    <td>Functions,random module,lists</td>
+  </tr>
 </table>
 
