@@ -62,7 +62,7 @@ This repo contains easy and beginner friendly  games in python.
     <td>Functions,Loops,Global variables</td>
   </tr>
   <tr>
-    <td>11</td>
+    <td>14</td>
     <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/DAY%2014-Higher-lower">Higher Lower Game</a></td>
     <td>Functions,loops,lists,global varibles</td>
   </tr>
