@@ -56,5 +56,15 @@ This repo contains easy and beginner friendly  games in python.
     <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/DAY%2011-Blackjack">Blackjack</a></td>
     <td>Functions,random module,lists</td>
   </tr>
+  <tr>
+    <td>12</td>
+    <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/DAY%2012-Guess%20The%20Number">Guess the Number</a></td>
+    <td>Functions,Loops,Global variables</td>
+  </tr>
+  <tr>
+    <td>11</td>
+    <td><a href="https://github.com/Astroakanksha24/Python-Games/tree/main/DAY%2014-Higher-lower">Higher Lower Game</a></td>
+    <td>Functions,loops,lists,global varibles</td>
+  </tr>
 </table>
 
