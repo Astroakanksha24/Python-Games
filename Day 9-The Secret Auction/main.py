@@ -17,3 +17,9 @@ while(temp=="yes"):
           clear()
 clear()
 print("The winner is {} with a bid of ${}.".format(dict["Bidders_name"],dict["bid"]))
+
+
+# this is for testing 
+# test
+# test
+# test
